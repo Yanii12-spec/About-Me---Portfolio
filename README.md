@@ -1,6 +1,6 @@
-Portfolio Website
+~Portfolio Website~
 
-Purpose
+Purpose:
 This project is a personal portfolio website showcasing my background, projects, and contact details.  
 It is designed as a simple, one-page site built with only **HTML and CSS** following best practices for structure, readability, and accessibility.
 
